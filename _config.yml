@@ -61,5 +61,5 @@ ignore: null
 theme: vivia
 deploy:
   type: git
-  repository: 
+  repository: https://github.com/cchangfeng/cchangfeng.github.io.git
   branch: main
